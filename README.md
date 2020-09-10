@@ -1,0 +1,1 @@
+# elasticsearch_aws_connector
